@@ -2,6 +2,13 @@
 
 ###### **Software Engineer | Seeking Entry Level Opportunity | JavaScript, Node.js, PostgreSQL, React.js**
 
+Hi everyone, my name is Ally Deeter. I recently became a Software Engineer through an immersive full-stack engineering bootcamp at DigitalCrafts. I previously worked in restaurant/bar management and medical administration.
+
+Through my previous career experience, I developed leadership, communication, and problem-solving skills that I hope to put forward into my future as an engineer. During the bootcamp, I excelled at JavaScript, Node.js, and PostgreSQL. I also developed a strong passion for solving algorithms and critically thinking. I am looking for the opportunity to utilize these technical and interpersonal skills.
+
+Feel free to view my:
+- [Portfolio] (https://allydeeter.netlify.app/)
+- [LinkedIn] (http://www.linkedin.com/in/ally-deeter)
 <!--
 **Ardeeter/Ardeeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
