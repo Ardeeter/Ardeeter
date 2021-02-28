@@ -1,6 +1,6 @@
 [![Header](https://github.com/Ardeeter/Ardeeter/blob/main/AllyDeeter.png "Header")](https://allydeeter.netlify.app/)
 
-## **Software Engineer | Seeking Entry Level Opportunity | JavaScript, Node.js, PostgreSQL, React.js**
+###### **Software Engineer | Seeking Entry Level Opportunity | JavaScript, Node.js, PostgreSQL, React.js**
 
 <!--
 **Ardeeter/Ardeeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
