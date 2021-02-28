@@ -9,6 +9,8 @@ Through my previous career experience, I developed leadership, communication, an
 Feel free to view my:
 - [Portfolio](https://allydeeter.netlify.app/)
 - [LinkedIn](http://www.linkedin.com/in/ally-deeter)
+
+[![Ally's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardeeter)](https://github.com/Ardeeter/github-readme-stats)
 <!--
 **Ardeeter/Ardeeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
