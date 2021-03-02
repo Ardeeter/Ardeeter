@@ -1,6 +1,6 @@
 [![Header](https://github.com/Ardeeter/Ardeeter/blob/main/AllyDeeter.png "Header")](https://allydeeter.netlify.app/)
 
-[![Header](https://github.com/Ardeeter/Ardeeter/blob/main/AllyDeeter.png =250px)](https://allydeeter.netlify.app/)
+[![Header](https://github.com/Ardeeter/Ardeeter/blob/main/AllyDeeter.png | width=48)](https://allydeeter.netlify.app/)
 
 ###### **Software Engineer | Seeking Entry Level Opportunity | JavaScript, Node.js, PostgreSQL, React.js**
 
