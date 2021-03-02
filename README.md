@@ -1,7 +1,5 @@
 [![Header](https://github.com/Ardeeter/Ardeeter/blob/main/AllyDeeter.png "Header")](https://allydeeter.netlify.app/)
 
-[![Header](https://github.com/Ardeeter/Ardeeter/blob/main/AllyDeeter.png | width=48)](https://allydeeter.netlify.app/)
-
 ###### **Software Engineer | Seeking Entry Level Opportunity | JavaScript, Node.js, PostgreSQL, React.js**
 
 Hi everyone, my name is Ally Deeter. I recently became a Software Engineer through an immersive full-stack engineering bootcamp at DigitalCrafts. I previously worked in restaurant/bar management and medical administration.
