@@ -17,6 +17,8 @@ Feel free to view my:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anjatmyers&repo=teamRedProject&show_icons=true&theme=radical)](https://github.com/anjatmyers/teamRedProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laynemag&repo=LayrFIVE&show_icons=true&theme=radical)](https://github.com/laynemag/LayrFIVE)
 
+<img align="right" src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="400" height="auto" />
+
 
 <!--
 **Ardeeter/Ardeeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
