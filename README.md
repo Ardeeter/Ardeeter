@@ -30,6 +30,7 @@ Through my previous career experience, I developed leadership, communication, an
 
 Feel free to view my: 
 <br />
+<br />
 [<img align="left" alt="codeSTACKr.com" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.allydeeter.dev)
 [Portfolio](https://www.allydeeter.dev)
 <br />
